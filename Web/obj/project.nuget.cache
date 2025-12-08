@@ -1,0 +1,49 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qc9LM1WNDns=",
+  "success": true,
+  "projectFilePath": "C:\\DotNet2\\Web\\Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rupesh bhulode\\.nuget\\packages\\google.apis\\1.72.0\\google.apis.1.72.0.nupkg.sha512",
+    "C:\\Users\\Rupesh bhulode\\.nuget\\packages\\google.apis.auth\\1.72.0\\google.apis.auth.1.72.0.nupkg.sha512",
+    "C:\\Users\\Rupesh bhulode\\.nuget\\packages\\google.apis.core\\1.72.0\\google.apis.core.1.72.0.nupkg.sha512",
+    "C:\\Users\\Rupesh bhulode\\.nuget\\packages\\google.apis.sheets.v4\\1.72.0.3966\\google.apis.sheets.v4.1.72.0.3966.nupkg.sha512",
+    "C:\\Users\\Rupesh bhulode\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "C:\\Users\\Rupesh bhulode\\.nuget\\packages\\microsoft.extensions.hosting\\10.0.0\\microsoft.extensions.hosting.10.0.0.nupkg.sha512",
+    "C:\\Users\\Rupesh bhulode\\.nuget\\packages\\microsoft.extensions.http\\10.0.0\\microsoft.extensions.http.10.0.0.nupkg.sha512",
+    "C:\\Users\\Rupesh bhulode\\.nuget\\packages\\microsoft.openapi\\2.3.0\\microsoft.openapi.2.3.0.nupkg.sha512",
+    "C:\\Users\\Rupesh bhulode\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
+    "C:\\Users\\Rupesh bhulode\\.nuget\\packages\\swashbuckle.aspnetcore\\10.0.1\\swashbuckle.aspnetcore.10.0.1.nupkg.sha512",
+    "C:\\Users\\Rupesh bhulode\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.0.1\\swashbuckle.aspnetcore.swagger.10.0.1.nupkg.sha512",
+    "C:\\Users\\Rupesh bhulode\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.0.1\\swashbuckle.aspnetcore.swaggergen.10.0.1.nupkg.sha512",
+    "C:\\Users\\Rupesh bhulode\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.0.1\\swashbuckle.aspnetcore.swaggerui.10.0.1.nupkg.sha512",
+    "C:\\Users\\Rupesh bhulode\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\Rupesh bhulode\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference Microsoft.Extensions.Hosting will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "projectPath": "C:\\DotNet2\\Web\\Web.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\DotNet2\\Web\\Web.csproj",
+      "libraryId": "Microsoft.Extensions.Hosting",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference Microsoft.Extensions.Http will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "projectPath": "C:\\DotNet2\\Web\\Web.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\DotNet2\\Web\\Web.csproj",
+      "libraryId": "Microsoft.Extensions.Http",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

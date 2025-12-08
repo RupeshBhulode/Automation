@@ -1,0 +1,28 @@
+{
+  "Mappings": {
+    "2": {
+      "CardId": "6935ba440296ab8996817126",
+      "Category": "qualified",
+      "Name": "Khishi_Trello",
+      "Email": "k_trello@gmail.com",
+      "Note": "FollowUp Interview Done",
+      "Source": "Web"
+    },
+    "3": {
+      "CardId": "6935ba443a7d3a191ee5ef6d",
+      "Category": "contacted",
+      "Name": "Rajat",
+      "Email": "r@gmail.com",
+      "Note": "Hiring",
+      "Source": "Linkfin"
+    },
+    "4": {
+      "CardId": "6935ba95ad3de18795c52a8a",
+      "Category": "contacted",
+      "Name": "Four",
+      "Email": "f@gmail.com",
+      "Note": "four",
+      "Source": "Web"
+    }
+  }
+}
