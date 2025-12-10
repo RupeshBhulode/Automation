@@ -324,7 +324,7 @@ I also modified AI-generated logging statements to use structured logging with p
 ---
 
 ## Video Demo
-**[📹 Watch the Demo Video](https://drive.google.com/file/d/1SQg3_z1ebanMS0fb-xIyKSW7Qtsw2m7V/view?usp=sharing)**
+**[📹 Watch the Demo Video](youtube.com/watch?v=zyVXoDrOW2w&feature=youtu.be)**
 
 The video covers:
 - Quick architecture overview
